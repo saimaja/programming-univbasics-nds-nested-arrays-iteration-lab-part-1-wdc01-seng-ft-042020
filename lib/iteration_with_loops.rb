@@ -6,6 +6,7 @@ i = 0
 while i < src.length do 
   if src[i]%2 === 0
  puts src[i]
+ end
  i+=1
 end
  
